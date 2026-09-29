@@ -1,0 +1,9 @@
+round: r1_craft
+slice: B3-mid
+sha256: cb95eeb931a7ce083c25727eb54e262cd78909d320f95f06c3ea56f9608f3831
+code: CB95-EEB9
+locked_at: 2026-09-29T11:48:56+07:00
+shapes: box=22, polygon=14
+prefill_kept: 1
+prefill_edited: 2
+new: 19
